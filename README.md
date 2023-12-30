@@ -1,4 +1,4 @@
-# ShoukryDo - Task Manager Application
+# ShoukryDo - Tasks Management Application
 
 ## Overview
 
