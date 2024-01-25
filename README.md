@@ -44,6 +44,10 @@ This repository contains a Tasks Management Application implemented using an 808
 - Optimized for Dosbox 0.74-3 with a CPU speed of 3000 cycles.
 - Ensure your Dosbox is configured with the specified CPU speed for precise timing, as instruction speed may vary based on CPU speed.
 
+## Video Link
+
+[ShoukryDo Video](https://www.youtube.com/watch?v=Wg5L5oPNCHs)
+
 ## About the Author
 
 Get to know the author, Amr Shoukry, and discover the inspiration behind this task management application.
